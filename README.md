@@ -1,1 +1,1 @@
-# What does sklearn tfidf do exactly with for new out of sample text
+# What does sklearn tfidf do exactly with new out of sample text
